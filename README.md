@@ -1,6 +1,5 @@
-# TSN_DEMO_06_Database
+# LDV9_LAB6_Android
 Работа с базой данных SQLite
 
-![Screenshot](Screenshot.png)
+![Screenshot](screenshot.png)
 
-https://www.youtube.com/watch?v=XEOATfSQW00
